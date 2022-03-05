@@ -1,8 +1,8 @@
-## HeisHam
+# HeisHam
 
 This is a Fortran program to obtain the energies of a system with a Heisenberg Dirac van Vleck Hamiltonian. This program also assigns the S number to each energy.
 
-# Compiling and running the code
+## Compiling and running the code
 
 Compiling the code is really easy. A makefile is included
 in the main directory to compile the different source files
@@ -54,7 +54,7 @@ In resume, the commands for running it easily are:
 `make`
 `./run.sh s1`
 
-#Format of the input
+## Format of the input
 
 The format of the input is the following:
 ```
