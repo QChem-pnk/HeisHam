@@ -1,4 +1,4 @@
-##HeisHam
+## HeisHam
 
 This is a Fortran program to obtain the energies of a system with a Heisenberg Dirac van Vleck Hamiltonian. This program also assigns the S number to each energy.
 
@@ -67,6 +67,4 @@ F # T for verbose mode , for debugging
  ( whatever the unit : cm−1, meV, . . . )
 ```
 
-Input files for all the systems in the homework are named
-s1 to s10. Input files for all the systems in the Winter
-School presentation are also included, a1 to a10.
+Input files for different systems are included in the inp directory.
