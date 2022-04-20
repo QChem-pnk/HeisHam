@@ -52,6 +52,7 @@ the standard input.
 In resume, the commands for running it easily are:
 
 `make`
+
 `./run.sh s1`
 
 ## Format of the input
